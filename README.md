@@ -1,7 +1,7 @@
 # Desafio Frontend Bycoders_
 
 <p align="left">Este teste tem por objetivos principais avaliar:</p>
-- Habilidades no desenvolvimento frontend
+- Habilidades no desenvolvimento frontend <br>
 - Conceitos de UI e UX aplicados
 
 
