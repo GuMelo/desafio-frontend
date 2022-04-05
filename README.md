@@ -33,13 +33,6 @@ $ npm run dev
 ```
 
 
-# 🏁 Desafio de programação - Vaga Front-End 🏁
-
-**Este teste tem por objetivos principais avaliar:**
-
-- Habilidades no desenvolvimento frontend
-- Conceitos de UI e UX aplicados
-
-## Desafio 🚀 🚀 🚀
+## 🏁 Desafio Front-End 🏁
 
 ![screen](/image.png)
