@@ -1,0 +1,24 @@
+{
+  "name": "front-bycoders-yt",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "primeicons": "^5.0.0",
+    "primevue": "^3.12.4",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2",
+    "vuex-composition-helpers": "^2.0.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.0",
+    "autoprefixer": "^10.4.4",
+    "vite": "^2.9.0"
+  }
+}
