@@ -31,3 +31,15 @@ $ npm run dev
 
 # O servidor iniciará na porta:8080 - acesse <http://localhost:8080>
 ```
+
+
+# 🏁 Desafio de programação - Vaga Front-End 🏁
+
+**Este teste tem por objetivos principais avaliar:**
+
+- Habilidades no desenvolvimento frontend
+- Conceitos de UI e UX aplicados
+
+## Desafio 🚀 🚀 🚀
+
+![screen](/image.png)
